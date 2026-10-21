@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+packages/
+
+# Kurulum projesi çıktıları
+YurtOtomasyonu/Setup1/Setup1/Debug/
+YurtOtomasyonu/Setup1/Setup1/Release/
+
+# İmza anahtarı ve rapor
+*.pfx
+NTP_Rapor.docx
